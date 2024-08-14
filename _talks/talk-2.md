@@ -2,7 +2,7 @@
 title: "Talk in ChinaVis 2024"
 collection: talks
 type: "Talk"
-permalink: /talks/take_2
+permalink: /talks/talk_2
 venue: "ChinaVis 2024"
 date: 2024-07-24
 location: "Hong Kong, China"

@@ -28,6 +28,7 @@
     
     <!--如果有excerpt, 不显示详细内容-->
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>{% endif %}
+
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}</p>{% endif %} -->
     <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' | replace: '<img', '' | replace: '>', '' }}</p>{% endif %} -->
   

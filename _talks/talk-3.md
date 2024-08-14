@@ -2,7 +2,7 @@
 title: "GAMES Webinar Vol.332"
 collection: talks
 type: "Talk"
-permalink: /talks/take-3
+permalink: /talks/talk-3
 venue: "Online"
 date: 2024-05-09
 # location: "Online"

@@ -3,7 +3,7 @@ title: "EVCSeer: An Exploratory Study on Electric Vehicle Charging Stations Util
 collection: publications
 permalink: /publication/2024-05-EVCSeer
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-05-03
+date: '2024-05-03'
 venue: 'IEEE Computer Graphics and Applications'
 teaser: /images/publications/EVCSeer.png
 authors: 'Y. Zhang, S. Gu, Q. Li, and H. Zeng*.'
