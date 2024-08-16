@@ -30,7 +30,7 @@ feature_row:
     excerpt: "Göreme, 2024.05"
 
   - image_path: /life/Chongqing_1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     excerpt: "Chongqing, 2023.07"
 
   - image_path: /life/HongKong_1.jpg
