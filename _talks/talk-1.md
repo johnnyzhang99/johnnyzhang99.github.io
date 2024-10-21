@@ -9,4 +9,4 @@ location: "Tampa, FL"
 # excerpt: ""
 ---
 
-I'm going to present two papers. More information can be found [here](https://ieeevis.org/year/2024/program/paper_v-full-1681.html) and [there](https://ieeevis.org/year/2024/program/paper_v-tvcg-20243392587.html)
+I am going to present two papers in [urban planning](https://ieeevis.org/year/2024/program/session_full8.html) session on Oct 16. More information can be found in [CSLens](https://ieeevis.org/year/2024/program/paper_v-full-1681.html) and [MARLens](https://ieeevis.org/year/2024/program/paper_v-tvcg-20243392587.html).
