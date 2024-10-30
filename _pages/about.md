@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yutian Zhang (张雨田), currently working towards the M.S. degree in the School of Intelligent Systems Engineering at Sun Yat-sen University, supervised by [Haipeng Zeng](https://www.zenghp.org/). I received a B.S. degree in traffic engineering from Sun Yat-Sen University. My research interests include visual analytics, urban big data and interpretable artificial intelligence.
+Hi, I'm Yutian Zhang (张雨田), currently working towards the M.S. degree in the School of Intelligent Systems Engineering at Sun Yat-sen University, supervised by [Haipeng Zeng](https://www.zenghp.org/). I received a B.S. degree in traffic engineering from Sun Yat-Sen University. My research interests include visual analytics, interpretable artificial intelligence, and urban big data.
 
 📰 News
 ======
