@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yutian Zhang (张雨田), currently working towards the M.S. degree in the School of Intelligent Systems Engineering at Sun Yat-sen University, supervised by [Haipeng Zeng](https://www.zenghp.org/). I received a B.S. degree in traffic engineering from Sun Yat-Sen University. My research primarily focuses on visual analytics, interpretable artificial intelligence, and urban big data.
+Hi, I'm Yutian Zhang (张雨田), currently working towards the M.S. degree in the School of Intelligent Systems Engineering at Sun Yat-sen University, supervised by [Haipeng Zeng](https://www.zenghp.org/). I received a B.S. degree in traffic engineering from Sun Yat-Sen University. My research primarily focuses on visual analytics, urban visualization, and transportation big data.
 
 
 📰 News
@@ -34,7 +34,8 @@ More detials please refer to [publications](https://thunderzh99.github.io/public
 
 🏆 Award
 ======
-- 2024 National Scholarship for Graduate Students, Ministry of Education of China
-- 2022, 2024 First-class Scholarship for Master's Students, Sun Yat-sen University
-- 2021 National Scholarship for Undergraduate Students, Ministry of Education of China
+<!-- - 2024 National Scholarship for Graduate Students, Ministry of Education of China -->
+- 2024 First-class Scholarship for Master's Students, Sun Yat-sen University
+- 2022 First-class Scholarship for Master's Students, Sun Yat-sen University
+<!-- - 2021 National Scholarship for Undergraduate Students, Ministry of Education of China -->
 - 2018 - 2021 Excellence Scholarship, Sun Yat-sen University
