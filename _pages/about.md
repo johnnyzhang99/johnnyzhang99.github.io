@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yutian Zhang (张雨田), currently working towards the M.S. degree in the School of Intelligent Systems Engineering at Sun Yat-sen University, supervised by Prof. Haipeng Zeng. I received a B.S. degree in traffic engineering from Sun Yat-Sen University. My research primarily focuses on visual analytics, urban visualization, and traffic big data.
+Hi, I'm Yutian Zhang (张雨田), a first-year Ph.D. student in the Department of Computer Science at the University of Maryland, College Park. I'm a member of [Human-Data Interaction group](https://hdi.cs.umd.edu/), advised by Prof. [Leo Zhicheng Liu](https://www.zcliu.org/). Before joining UMD, I received my M.S. degree from Sun Yat-Sen University, where my research primarily focuses on visual analytics and urban visualization.
 
 
 📰 News
