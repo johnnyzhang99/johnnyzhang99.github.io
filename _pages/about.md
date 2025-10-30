@@ -23,7 +23,7 @@ Hi, I'm Yutian Zhang (张雨田), a first-year Ph.D. student in the Department o
 - Y. Zhang, S. Gu, Q. Li, and H. Zeng. EVCSeer: An Exploratory Study on Electric Vehicle Charging Stations Utilization via Visual Analytics. IEEE Computer Graphics and Applications, 2024.
 - Y. Zhang, G. Zheng, Z. Liu, Q. Li, and H. Zeng. MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics. IEEE Transactions on Visualization and Computer Graphics, 2024.
 
-More detials please refer to [publications](https://thunderzh99.github.io/publications).
+More detials please refer to [publications](https://johnnyzhang99.github.io/publications).
 
 
 🎓 Education
