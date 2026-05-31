@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="academic">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Apply saved theme before first paint to avoid a flash of the wrong background. -->
+    <script>
+      document.documentElement.setAttribute(
+        'data-theme',
+        localStorage.getItem('theme') || 'academic',
+      )
+    </script>
+    <link rel="icon" href="/images/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <title>Yutian Zhang | Homepage</title>
+    <meta
+      name="description"
+      content="Yutian Zhang — Ph.D. Student in Computer Science at the University of Maryland, College Park."
+    />
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
